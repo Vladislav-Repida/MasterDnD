@@ -6,3 +6,7 @@
 ```
 <script src="drag-and-drop.js"></script>
 ```
+
+```
+<script src="drag-and-drop.min.js"></script>
+```
