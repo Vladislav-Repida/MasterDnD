@@ -1,6 +1,10 @@
 # MasterDnD
 Мини библиотека для реализации простого DnD.
 
+<h2>Подключение файла</h2>
 ```
-test
+<script src="drag-and-drop.js"></script>
+```
+```
+<script src="drag-and-drop.min.js"></script>
 ```
