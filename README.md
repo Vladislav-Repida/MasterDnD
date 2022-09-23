@@ -4,5 +4,5 @@
 <h2>Подключение файла</h2>
 
 ```
-1
+<script src="drag-and-drop.js"></script>
 ```
