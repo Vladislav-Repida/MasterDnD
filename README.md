@@ -10,3 +10,9 @@
 ```
 <script src="drag-and-drop.min.js"></script>
 ```
+
+
+<h3>Пример:</h3>
+```
+
+```
